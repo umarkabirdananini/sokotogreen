@@ -1506,65 +1506,6 @@ a {
   text-align: left;
   color: #000000;
 }
-.cid-umdaocFwxK {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-umdaocFwxK .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-umdaocFwxK .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-umdaocFwxK .title .num {
-  width: 100%;
-  display: block;
-}
-.cid-umdaocFwxK .title .card-title {
-  z-index: 1;
-}
-.cid-umdaocFwxK .count {
-  color: #1f6463;
-  font-weight: 700;
-  text-align: left;
-}
-.cid-umdaocFwxK .item-mb {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-umdaocFwxK .item-mb {
-    margin-bottom: 1rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-umdaocFwxK * {
-    text-align: center !important;
-  }
-  .cid-umdaocFwxK .content-column {
-    margin-bottom: 2rem;
-  }
-}
-.cid-umdaocFwxK .content-head {
-  max-width: 800px;
-}
-.cid-umdaocFwxK H3 {
-  color: #a6a99c;
-  text-align: left;
-}
-.cid-umdaocFwxK .card-text {
-  text-align: left;
-}
-.cid-umdaocFwxK .card-title,
-.cid-umdaocFwxK .card-img {
-  text-align: left;
-}
 .cid-umcXC6R0Qu {
   padding-top: 6rem;
   padding-bottom: 6rem;
